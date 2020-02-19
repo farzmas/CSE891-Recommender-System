@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 1: Recommender system 
 
 This is the first of two mini projects in this class. Each mini project accounts for 10% fo your final grade. The project requires implementing and evaluating various methods for a joke recommender system. The project due date is Sunday, Oct 20, 2019 (before midnight).
@@ -137,3 +138,7 @@ You should turn in following files:
 * data_loader.py
 * utils.py
 * results.txt: Run the program with the default hyper-parameter settings and report the  results in this file.
+=======
+# CSE891-Recommender-System
+CSE891 Mini Project 1: Recommender System
+>>>>>>> 4fc5b964629c27c2d1f40b1156a8b4c68f906c86
