@@ -138,7 +138,4 @@ You should turn in following files:
 * data_loader.py
 * utils.py
 * results.txt: Run the program with the default hyper-parameter settings and report the  results in this file.
-=======
-# CSE891-Recommender-System
-CSE891 Mini Project 1: Recommender System
->>>>>>> 4fc5b964629c27c2d1f40b1156a8b4c68f906c86
+
