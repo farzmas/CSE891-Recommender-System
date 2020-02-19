@@ -1,5 +1,5 @@
 
-# Project 1: Recommender system 
+# CSE891 Project 1: Recommender system 
 
 This is the first of two mini projects in this class. Each mini project accounts for 10% fo your final grade. The project requires implementing and evaluating various methods for a joke recommender system. The project due date is Sunday, Oct 20, 2019 (before midnight).
 
